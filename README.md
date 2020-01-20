@@ -3,7 +3,7 @@
 
 ## Ders Programı
 
-Aşağıda haftalık ders programımızı bulabilirsiniz. Her gün öğleden önce iki saat teori dersi olacak. Dersler 50 dakika sürecek ve 20 dakika ara vereceğiz. Öğleden sonra ise yine iki saat uygulama dersi yapılacak. Bir nokta lütfen gözden kaçmasın: En son günkü uygulama dersi diğer günlere göre bir saat erken başlayacak. 
+Aşağıda haftalık ders programımızı bulabilirsiniz. Her gün öğleden önce iki saat teori dersi olacak. Öğleden sonra ise yine iki saat uygulama dersi yapılacak. Dersler 50 dakika sürecek ve 20 dakika ara vereceğiz. Bir nokta lütfen gözden kaçmasın: En son günkü uygulama dersi diğer günlere göre bir saat erken başlayacak. 
 
 ### 27 Ocak Pazartesi: Giriş
 10:00-12:00: Güdümlü-güdümsüz öğrenme, bağlanım-sınıflandırma, yanlılık-varyans, Bayes sınıflandırıcı, K-en yakın komşu <br /> 
