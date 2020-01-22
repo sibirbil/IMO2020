@@ -21,7 +21,7 @@ Aşağıda haftalık ders programımızı bulabilirsiniz. Her gün öğleden ön
 10:00-12:00: Çapraz geçerlilik sınaması, performans ölçümü, model ve algoritma karşılaştırma <br /> 
 14:00-16:00: Uygulama 3
 
-### 30 Ocak Perşembe: Düzenlileştirme 
+### 30 Ocak Perşembe: Boyut Küçültme ve Düzenlileştirme 
 10:00-12:00: Alt küme seçimi, çıkıntı bağlanımı, lasso, boyut küçültme, ana bileşenler bağlanımı <br /> 
 14:00-16:00: Uygulama 4
 
