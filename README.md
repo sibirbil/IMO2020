@@ -1,5 +1,5 @@
 # İMO 2020
-İstanbul'da Makine Öğrenmesi (27 Ocak- 2 Şubat, 2020) - Program ve ders malzemeleri
+İstanbul'da Makine Öğrenmesi (27 Ocak- 2 Şubat, 2020)
 ---
 Bu sayfada tüm ders notlarımızı (teori ve uygulama) toplayacağız. Dersler sırasında video kaydı yapılacak ve bu kayıtlar YouTube'a yüklenecek. Videolar hazır olunca bağlantıları buraya ekleyeceğiz.
 
