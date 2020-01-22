@@ -13,7 +13,7 @@ Aşağıda haftalık ders programımızı bulabilirsiniz. Her gün öğleden ön
 10:00-12:00: Güdümlü-güdümsüz öğrenme, bağlanım-sınıflandırma, yanlılık-varyans, Bayes sınıflandırıcı, K-en yakın komşu <br /> 
 14:00-16:00: Uygulama 1
 
-### 28 Ocak Salı: Doğrusal Modeller
+### 28 Ocak Salı: Doğrusal Bağlanım
 10:00-12:00: Doğrusal bağlanım, kategorik değişkenler, Bayesci yaklaşım, çoklu bağlanım <br />
 14:00-16:00: Uygulama 2
 
