@@ -31,13 +31,13 @@ sort = corrMatris.sort_values()
 pd.plotting.scatter_matrix(bos.loc[:,['RAD', 'TAX', 'LSTAT', 'NOX', 'INDUS']])
 
 # Part d
-pd.plotting.hist_series(bos.loc[:,'CRIM'], bins = 20)
+bos.CRIM.plot.hist(bins = 20)
 bos.loc[bos['CRIM']>40,:]
 
-pd.plotting.hist_series(bos.loc[:,'TAX'], bins = 20)
+bos.TAX.plot.hist(bins = 20)
 bos.loc[bos['TAX']>700,:]
 
-pd.plotting.hist_series(bos.loc[:,'PTRATIO'], bins = 50)
+bos.PTRATIO.plot.hist(bins = 50)
 bos.loc[bos['PTRATIO']>22,:]
 
 # Part e
