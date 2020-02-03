@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Feb  2 11:16:28 2020
-
 @author: utkuk
 """
 
@@ -45,10 +44,9 @@ y_egitim = veri_egitim.iloc[:, 21]
 y_test = veri_test.iloc[:, 21]
 
 # Siniflara ait ornek sayilari
-print('1. sinifa ait olan ornek sayisi', sum(y_egitim == 1))
-print('2. sinifa ait olan ornek sayisi', sum(y_egitim == 2))
-print('3. sinifa ait olan ornek sayisi', sum(y_egitim == 3))
-
+print('1. sınıfa ait olan örnek sayısı:', sum(y_egitim == 1))
+print('2. sınıfa ait olan örnek sayısı:', sum(y_egitim == 2))
+print('3. sınıfa ait olan örnek sayısı:', sum(y_egitim == 3))
 # Verimizde örneklerin ait olduğu sınıflarda bir dengesizlik mevcut.
 
 # Yapay sinir ağı (ysa) oluşturma, eğitme ve sonuçlarını ekrana yazdırma.
@@ -96,7 +94,7 @@ en_iyi_ysa = MLPClassifier(hidden_layer_sizes = en_iyi_noron_sayisi,
 
 en_iyi_ysa.fit(X_test, y_test)
 dogruluk_test = en_iyi_ysa.score(X_test, y_test)
-print('10 katli cgs tahmin dogrulugu:', dogruluk_test)
+print('10 katlı CGS tahmin doğruluğu:', dogruluk_test)
 print(confusion_matrix(y_test, en_iyi_ysa.predict(X_test)))
 print(classification_report(y_test, en_iyi_ysa.predict(X_test)))
 
@@ -140,7 +138,7 @@ dengelenmis_ysa = MLPClassifier(hidden_layer_sizes = en_iyi_noron_sayisi,
                                 random_state = 5)
 dengelenmis_ysa.fit(X_egitim_dengelenmis, y_egitim_dengelenmis)
 dengelenmis_dogruluk = dengelenmis_ysa.score(X_test, y_test)
-print('Dengelenmis veri seti ile egitilmis modelin dogrulugu:', 
+print('Dengelenmiş veri seti ile eğitilmiş modelin doğruluğu:', 
       dengelenmis_dogruluk)
 print(confusion_matrix(y_test, 
                        dengelenmis_ysa.predict(X_test)))
