@@ -21,7 +21,7 @@ Aşağıda listelediğimiz dersleri bir hafta boyunca, öğleden önce iki
 saat teori, öğleden sonra ise yine iki saat uygulama dersi olacak
 şekilde verdik.
 
-### 27 Ocak Pazartesi: Giriş
+### Giriş
 
 Güdümlü-güdümsüz öğrenme, bağlanım-sınıflandırma, yanlılık-varyans,
 Bayes sınıflandırıcı, K-en yakın komşu <br />
@@ -39,7 +39,7 @@ Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/01_Giris
 [Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/01_Giris
 "Giriş - Uygulama") <br />
 
-### 28 Ocak Salı: Doğrusal Bağlanım
+### Doğrusal Bağlanım
 
 Doğrusal bağlanım, kategorik değişkenler, Bayesci yaklaşım, çoklu bağlanım <br />
 
@@ -56,7 +56,7 @@ Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/02_Dogrusa
 [Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/02_Dogrusal_Baglanim
 "Doğrusal Bağlanım - Uygulama") <br />
 
-### 29 Ocak Çarşamba: Boyut Küçültme ve Düzenlileştirme 
+### Boyut Küçültme ve Düzenlileştirme 
 
 Alt küme seçimi, çıkıntı bağlanımı, lasso, boyut küçültme, ana
 bileşenler bağlanımı <br />
@@ -69,13 +69,13 @@ Ders](https://www.youtube.com/watch?v=8c-Y7ZIyYdU&list=PLZcbvMjrj9DVU6g2A5e6voei
 
 [Ders
 Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/03_Boyut_Kucultme_ve_Duzenlilestirme
-"Boyut Küçültme ve Düzenlileştirme -Teori" <br />
+"Boyut Küçültme ve Düzenlileştirme -Teori") <br />
 
 [Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/03_Boyut_Kucultme_Duzenlilestirme
 "Boyut Küçültme ve Düzenlileştirme - Uygulama") <br />
 
 
-### 30 Ocak Perşembe: Tekrar Örnekleme ve Model Değerlendirme 
+### Tekrar Örnekleme ve Model Değerlendirme 
 
 Çapraz geçerlilik sınaması, performans ölçümü, model ve algoritma karşılaştırma <br /> 
 
@@ -113,10 +113,6 @@ Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/05_Sinifla
 K-Ortalamalar yöntemi, hiyerarşik ve spektral gruplandırma, matris
 ayrıştırma, PageRank algoritması <br />
 
-Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları,
-rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör
-makineleri <br />
-
 Video Kayıtları: Birinci Ders, İkinci Ders <br />
 
 [Ders
@@ -131,10 +127,6 @@ Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/06_Gudumsu
 Temel ağ yapısı, etkinleştirme fonksiyonları, geri yayılım, evrişimsel
 sinir ağı, yinelgeli sinir ağı, özkodlayıcı ve güdümsüz derin öğrenme
 <br />
-
-Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları,
-rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör
-makineleri <br />
 
 Video Kayıtları: Birinci Ders, İkinci Ders <br />
 
