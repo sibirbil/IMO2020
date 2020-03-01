@@ -14,7 +14,9 @@ ilerleyebilirler. Önceden derslerin izlenmesi halinde, derste
 uygulamalar yapılabilir ya da makine öğrenmesinin daha ileri konuları
 işlenebilir.
 
-[*Video kayıtları çalma listesi.*](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH "Makine Öğrenmesi'ne Giriş")
+**Video kayıtları çalma listesi
+için**[**tıklayın**](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH
+"Makine Öğrenmesi'ne Giriş")
 
 ## Ders İçeriği
 
