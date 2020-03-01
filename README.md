@@ -14,7 +14,6 @@ ilerleyebilirler. Önceden derslerin izlenmesi halinde, derste
 uygulamalar yapılabilir ya da makine öğrenmesinin daha ileri konuları
 işlenebilir.
 
-
 ## Ders İçeriği
 
 Aşağıda listelediğimiz dersleri bir hafta boyunca, öğleden önce iki
@@ -92,7 +91,7 @@ Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/04_Tekrar_
 [Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/04_Tekrar_Ornekleme_ve_Model_Degerlendirme
 "Tekrar Örnekleme ve Model Değerlendirme - Uygulama") <br />
 
-### 31 Ocak Cuma: Sınıflandırma ve Ağaçlar
+### Sınıflandırma ve Ağaçlar
 
 Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları,
 rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör
@@ -108,7 +107,7 @@ Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/05_Sinifla
 "Sınıflandırma ve Ağaçlar - Uygulama") <br />
 
 
-### 1 Şubat Cumartesi: Güdümsüz Öğrenme
+### Güdümsüz Öğrenme
 
 K-Ortalamalar yöntemi, hiyerarşik ve spektral gruplandırma, matris
 ayrıştırma, PageRank algoritması <br />
@@ -122,7 +121,7 @@ Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/06_Gudumsu
 [Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/06_Gudumsuz_Ogrenme
 "Güdümsüz Öğrenme - Uygulama") <br />
 
-### 2 Şubat Pazar: Yapay Sinir Ağları ve Derin Öğrenme
+### Yapay Sinir Ağları ve Derin Öğrenme
 
 Temel ağ yapısı, etkinleştirme fonksiyonları, geri yayılım, evrişimsel
 sinir ağı, yinelgeli sinir ağı, özkodlayıcı ve güdümsüz derin öğrenme
