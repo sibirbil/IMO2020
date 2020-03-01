@@ -1,17 +1,40 @@
 # İMO 2020
-İstanbul'da Makine Öğrenmesi (27 Ocak- 2 Şubat, 2020)
+
+İstanbul'da Makine Öğrenmesi
+
 ---
-Bu sayfada tüm ders notlarımızı (teori ve uygulama) toplayacağız. Dersler sırasında video kaydı yapılacak ve bu kayıtlar YouTube'a yüklenecek. Videolar hazır olunca bağlantıları buraya ekleyeceğiz.
 
-Kendi kurumunda bu dersi vermek isteyen arkadaşlar dersten önce ya da ders sırasında sınıftakilere videoları izleterek ilerleyebilirler. Önceden derslerin izlenmesi halinde, derste uygulamalar yapılabilir ya da makine öğrenmesinin daha ileri konuları işlenebilir.  
+Bu sayfada 27 Ocak 2020 - 2 Şubat 2020 tarihleri arasında İstanbul'da
+Utku Karaca ile birlikte verdiğim "Makine Öğrenmesi'ne Giriş" ders
+notlarına ve video kayıtlarını bulabilirsiniz.
 
-## Ders Programı
+Kendi kurumunda bu dersi vermek isteyen arkadaşlar dersten önce ya da
+ders sırasında sınıftakilere videoları izleterek
+ilerleyebilirler. Önceden derslerin izlenmesi halinde, derste
+uygulamalar yapılabilir ya da makine öğrenmesinin daha ileri konuları
+işlenebilir.
 
-Aşağıda haftalık ders programımızı bulabilirsiniz. Her gün öğleden önce iki saat teori dersi olacak. Öğleden sonra ise yine iki saat uygulama dersi yapılacak. Dersler 50 dakika sürecek ve 20 dakika ara vereceğiz. Bir nokta lütfen gözden kaçmasın: En son günkü uygulama dersi diğer günlere göre bir saat erken başlayacak. 
+
+## Ders İçeriği
+
+Aşağıda listelediğimiz dersleri bir hafta boyunca, öğleden önce iki
+saat teori, öğleden sonra ise yine iki saat uygulama dersi olacak
+şekilde verdik.
 
 ### 27 Ocak Pazartesi: Giriş
-10:00-12:00: Güdümlü-güdümsüz öğrenme, bağlanım-sınıflandırma, yanlılık-varyans, Bayes sınıflandırıcı, K-en yakın komşu <br /> 
-14:00-16:00: Uygulama 1
+
+Güdümlü-güdümsüz öğrenme, bağlanım-sınıflandırma, yanlılık-varyans,
+Bayes sınıflandırıcı, K-en yakın komşu <br />
+
+Ders Kayıtları: [Birinci
+Ders](https://www.youtube.com/watch?v=eKrnMr--bDY&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=2&t=12s
+"Giriş Dersi (1/2)"), [İkinci
+Ders](https://www.youtube.com/watch?v=3sgr8vsz7BA&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=3&t=9s "Giriş Dersi (2/2)")
+<br />
+
+[Ders Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/01_Giris) <br /> 
+
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/01_Giris) <br />
 
 ### 28 Ocak Salı: Doğrusal Bağlanım
 10:00-12:00: Doğrusal bağlanım, kategorik değişkenler, Bayesci yaklaşım, çoklu bağlanım <br />
