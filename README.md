@@ -26,36 +26,121 @@ saat teori, öğleden sonra ise yine iki saat uygulama dersi olacak
 Güdümlü-güdümsüz öğrenme, bağlanım-sınıflandırma, yanlılık-varyans,
 Bayes sınıflandırıcı, K-en yakın komşu <br />
 
-Ders Kayıtları: [Birinci
+Video Kayıtları: [Birinci
 Ders](https://www.youtube.com/watch?v=eKrnMr--bDY&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=2&t=12s
 "Giriş Dersi (1/2)"), [İkinci
-Ders](https://www.youtube.com/watch?v=3sgr8vsz7BA&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=3&t=9s "Giriş Dersi (2/2)")
-<br />
+Ders](https://www.youtube.com/watch?v=3sgr8vsz7BA&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=3&t=9s
+"Giriş Dersi (2/2)") <br />
 
-[Ders Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/01_Giris) <br /> 
+[Ders
+Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/01_Giris
+"Giriş - Teori") <br />
 
-[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/01_Giris) <br />
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/01_Giris
+"Giriş - Uygulama") <br />
 
 ### 28 Ocak Salı: Doğrusal Bağlanım
-10:00-12:00: Doğrusal bağlanım, kategorik değişkenler, Bayesci yaklaşım, çoklu bağlanım <br />
-14:00-16:00: Uygulama 2
+
+Doğrusal bağlanım, kategorik değişkenler, Bayesci yaklaşım, çoklu bağlanım <br />
+
+Video Kayıtları: [Birinci
+Ders](https://www.youtube.com/watch?v=GEWg6_5A-PM&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=4&t=0s
+"Doğrusal Bağlanım (1/2)"), [İkinci
+Ders](https://www.youtube.com/watch?v=j3Anif16W44&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=5&t=0s
+"Doğrusal Bağlanım (2/2)") <br />
+
+[Ders
+Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/02_Dogrusal_Baglanim
+"Doğrusal Bağlanım - Teori") <br />
+
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/02_Dogrusal_Baglanim
+"Doğrusal Bağlanım - Uygulama") <br />
 
 ### 29 Ocak Çarşamba: Boyut Küçültme ve Düzenlileştirme 
-10:00-12:00: Alt küme seçimi, çıkıntı bağlanımı, lasso, boyut küçültme, ana bileşenler bağlanımı <br /> 
-14:00-16:00: Uygulama 3
+
+Alt küme seçimi, çıkıntı bağlanımı, lasso, boyut küçültme, ana
+bileşenler bağlanımı <br />
+
+Video Kayıtları: [Birinci
+Ders](https://www.youtube.com/watch?v=KpGKPzHDgCM&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=6&t=0s
+"Boyut Küçültme ve Düzenlileştirme (1/2)"), [İkinci
+Ders](https://www.youtube.com/watch?v=8c-Y7ZIyYdU&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=7&t=0s
+"Boyut Küçültme ve Düzenlileştirme (2/2)") <br />
+
+[Ders
+Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/03_Boyut_Kucultme_ve_Duzenlilestirme
+"Boyut Küçültme ve Düzenlileştirme -Teori" <br />
+
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/03_Boyut_Kucultme_Duzenlilestirme
+"Boyut Küçültme ve Düzenlileştirme - Uygulama") <br />
+
 
 ### 30 Ocak Perşembe: Tekrar Örnekleme ve Model Değerlendirme 
-10:00-12:00: Çapraz geçerlilik sınaması, performans ölçümü, model ve algoritma karşılaştırma <br /> 
-14:00-16:00: Uygulama 4
+
+Çapraz geçerlilik sınaması, performans ölçümü, model ve algoritma karşılaştırma <br /> 
+
+Video Kayıtları: [Birinci
+Ders](https://www.youtube.com/watch?v=c-cMH-D8y-w&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=8&t=8s
+"Tekrar Örnekleme ve Model Değerlendirme (1/2)"), [İkinci
+Ders](https://www.youtube.com/watch?v=BIUixa1U6XQ&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=9&t=0s
+""Tekrar Örnekleme ve Model Değerlendirme (2/2)") <br />
+
+[Ders
+Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/04_Tekrar_Ornekleme_ve_Model_Degerlendirme
+"Tekrar Örnekleme ve Model Değerlendirme - Teori") <br />
+
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/04_Tekrar_Ornekleme_ve_Model_Degerlendirme
+"Tekrar Örnekleme ve Model Değerlendirme - Uygulama") <br />
 
 ### 31 Ocak Cuma: Sınıflandırma ve Ağaçlar
-10:00-12:00: Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları, rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör makineleri <br /> 
-14:00-16:00: Uygulama 5
+
+Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları,
+rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör
+makineleri <br />
+
+Video Kayıtları: Birinci Ders, İkinci Ders <br />
+
+[Ders
+Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/05_Siniflandirma_ve_Agaclar
+"Sınıflandırma ve Ağaçlar - Teori") <br />
+	
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/05_Siniflandirma_ve_Agaclar
+"Sınıflandırma ve Ağaçlar - Uygulama") <br />
+
 
 ### 1 Şubat Cumartesi: Güdümsüz Öğrenme
-10:00-12:00: K-Ortalamalar yöntemi, hiyerarşik ve spektral gruplandırma, matris ayrıştırma, PageRank algoritması  <br /> 
-14:00-16:00: Uygulama 6
+
+K-Ortalamalar yöntemi, hiyerarşik ve spektral gruplandırma, matris
+ayrıştırma, PageRank algoritması <br />
+
+Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları,
+rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör
+makineleri <br />
+
+Video Kayıtları: Birinci Ders, İkinci Ders <br />
+
+[Ders
+Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/06_Gudumsuz_Ogrenme
+"Güdümsüz Öğrenme - Teori") <br />
+
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/06_Gudumsuz_Ogrenme
+"Güdümsüz Öğrenme - Uygulama") <br />
 
 ### 2 Şubat Pazar: Yapay Sinir Ağları ve Derin Öğrenme
-10:00-12:00: Temel ağ yapısı, etkinleştirme fonksiyonları, geri yayılım, evrişimsel sinir ağı, yinelgeli sinir ağı, özkodlayıcı ve güdümsüz derin öğrenme  <br /> 
-**13:00-15:00:** Uygulama 7
+
+Temel ağ yapısı, etkinleştirme fonksiyonları, geri yayılım, evrişimsel
+sinir ağı, yinelgeli sinir ağı, özkodlayıcı ve güdümsüz derin öğrenme
+<br />
+
+Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları,
+rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör
+makineleri <br />
+
+Video Kayıtları: Birinci Ders, İkinci Ders <br />
+
+[Ders
+Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/07_Yapay_Sinir_Aglari_ve_Derin_Ogrenme
+"Yapay Sinir Ağları ve Derin Öğrenme - Teori") <br />
+
+[Uygulama](https://github.com/sibirbil/IMO2020/tree/master/UygulamaDersleri/07_Yapay_Sinir_Aglari
+"Yapay Sinir Ağları ve Derin Öğrenme - Uygulama") <br />
