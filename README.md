@@ -83,7 +83,7 @@ Video Kayıtları: [Birinci
 Ders](https://www.youtube.com/watch?v=c-cMH-D8y-w&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=8&t=8s
 "Tekrar Örnekleme ve Model Değerlendirme (1/2)"), [İkinci
 Ders](https://www.youtube.com/watch?v=BIUixa1U6XQ&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=9&t=0s
-""Tekrar Örnekleme ve Model Değerlendirme (2/2)") <br />
+"Tekrar Örnekleme ve Model Değerlendirme (2/2)") <br />
 
 [Ders
 Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/04_Tekrar_Ornekleme_ve_Model_Degerlendirme
