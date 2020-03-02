@@ -1,6 +1,4 @@
-# İMO 2020
-
-İstanbul'da Makine Öğrenmesi
+# İstanbul'da Makine Öğrenmesi, 2020
 
 ---
 
