@@ -1,7 +1,5 @@
 # İstanbul'da Makine Öğrenmesi, 2020
 
----
-
 Bu sayfada 27 Ocak 2020 - 2 Şubat 2020 tarihleri arasında İstanbul'da
 Utku Karaca ile birlikte verdiğim "Makine Öğrenmesine Giriş" ders
 notlarını ve video kayıtlarını bulabilirsiniz.
