@@ -97,7 +97,9 @@ Lojistik bağlanım, doğrusal ayrımsayıcı çözümleme, karar ağaçları,
 rassal ormanlar, torbalama ve takviye yöntemleri, destek vektör
 makineleri <br />
 
-Video Kayıtları: Birinci Ders, İkinci Ders <br />
+Video Kayıtları: [Birinci 
+Ders](https://www.youtube.com/watch?v=tNV0TE33_MM&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=10&t=0s "Sınıflandırma ve Ağaçlar (1/2)"), [İkinci 
+Ders](https://www.youtube.com/watch?v=N87vGpWWUQ4&list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH&index=11&t=1112s "Sınıflandırma ve Ağaçlar (2/2)") <br />
 
 [Ders
 Notları](https://github.com/sibirbil/IMO2020/tree/master/DersNotlari/05_Siniflandirma_ve_Agaclar
